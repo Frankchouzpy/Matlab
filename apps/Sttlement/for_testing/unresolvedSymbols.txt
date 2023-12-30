@@ -1,0 +1,4 @@
+Path	Symbol	Reason
+edxmatlab\setupscriptdownload\MATLAB Course Files\Section 1\selflearning\stochasticmedia\run.all\u1\apps\Sttlement.mlapp	vpa	undeployable
+edxmatlab\setupscriptdownload\MATLAB Course Files\Section 1\selflearning\stochasticmedia\run.all\u1\apps\Sttlement.mlapp	sym	undeployable
+edxmatlab\setupscriptdownload\MATLAB Course Files\Section 1\selflearning\stochasticmedia\run.all\u1\apps\Sttlement.mlapp	subs	undeployable
